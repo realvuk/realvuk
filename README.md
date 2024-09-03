@@ -1,17 +1,7 @@
 ## Hi there 👋
 
-<!--
-**realvuk/realvuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
-💻 Data Analyst with 3+ years of experience | Aspiring #DataScientist and #MachineLearning enthusiast
-📊 Transforming data into actionable insights | Skilled in #Python, #R, #SQL, and #Tableau
-🧠 Exploring the world one dataset at a time | Passionate about deep learning and predictive modeling
-
-🌟 I’m looking to collaborate on: Projects involving predictive modeling and data visualization
-🔍 I’m looking for help with: Advancing my deep learning skills, especially in PyTorch
-📚 Currently learning: Advanced techniques in PyTorch for deep learning applications
-🎵 Fun fact: I’m a data enthusiast who loves cats and has a keen ear for music!
+💻 Data Analyst with 3+ years of experience | Aspiring #DataScientist and #MachineLearning enthusiast<br>📊 Transforming data into actionable insights | Skilled in #Python, #R, #SQL, and #Tableau<br>🧠 Exploring the world one dataset at a time | Passionate about deep learning and predictive modeling<br><br>🌟 I’m looking to collaborate on: Projects involving predictive modeling and data visualization<br>🔍 I’m looking for help with: Advancing my deep learning skills, especially in PyTorch<br>📚 Currently learning: Advanced techniques in PyTorch for deep learning applications<br>🎵 Fun fact: I’m a data enthusiast who loves cats and has a keen ear for music!
 
 
 ## 🌐 Socials:
@@ -36,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=realvuk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
